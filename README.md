@@ -5,7 +5,7 @@
 Built to solve the "alert fatigue" problem: 90% false alarms, missed real failures, and a maintenance team that stopped trusting their tools. This app uses multi-sensor correlation analysis (not simple thresholds) to identify real equipment problems, suppress noise, and tell technicians exactly where to go and why.
 
 
-
+---
 
 
 ## Table of Contents
